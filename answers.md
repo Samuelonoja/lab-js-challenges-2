@@ -21,4 +21,4 @@
 
 5. Bonus - Challenge 5:
   - Answer:c { name: "Bob", age: 10 } and { name: "Ada", age: 20 }
-  - Explanation:A bit confusing but after running the code and more reseach i'm clear with the object reference and how this works.
+  - Explanation:A bit confusing but after running the code, going back to todays lesson i'm clear with the object reference and how this works.
